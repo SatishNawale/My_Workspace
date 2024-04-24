@@ -1,2 +1,2 @@
 # Python
-Marvellous
+Marvellous Python and Machine Learning
