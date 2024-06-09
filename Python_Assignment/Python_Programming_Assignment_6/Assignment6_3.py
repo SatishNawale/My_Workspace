@@ -1,4 +1,4 @@
-# 2. Design python application which creates two thread as eevenlist and oddlist.
+# 3. Design python application which creates two thread as eevenlist and oddlist.
 #    Both the thread accept list of integers as parameter. Evenlist thread add all
 #    even elements from input list and display the addition. Oddlist thread add all
 #    odd elements from input list and display the addition.

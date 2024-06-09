@@ -1,4 +1,4 @@
-# 2. Design python application which creates three threads as small, capital, digits. All the 
+# 4. Design python application which creates three threads as small, capital, digits. All the 
 #    threads accepts string as parameter. Small thread display number of small characters,
 #    capital thread display number of capital characters and digits thread display number
 #    of digits. Display id and name of each thread.
