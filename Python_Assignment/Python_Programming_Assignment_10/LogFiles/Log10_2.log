@@ -1,0 +1,34 @@
+
+
+----------------------------------------------------------------------
+Assignment10_2 output logfile : 
+Log file created at : Tue Jun 11 22:05:48 2024
+----------------------------------------------------------------------
+Renamed : duplicate.c --> duplicate.cpp
+Renamed : program161.c --> program161.cpp
+Renamed : program162.c --> program162.cpp
+Renamed : program163.c --> program163.cpp
+Renamed : program164.c --> program164.cpp
+----------------------------------------------------------------------
+Time required to execute the script is : 0.005011320114135742
+
+----------------------------------------------------------------------
+Assignment10_2 output logfile : 
+Log file created at : Tue Jun 11 22:06:03 2024
+----------------------------------------------------------------------
+There were no files with extension .c in the Directory RenamedFiles
+----------------------------------------------------------------------
+Time required to execute the script is : 0.0025224685668945312
+
+----------------------------------------------------------------------
+Assignment10_2 output logfile : 
+Log file created at : Tue Jun 11 22:06:17 2024
+----------------------------------------------------------------------
+Renamed : duplicate.cpp --> duplicate.c
+Renamed : program161.cpp --> program161.c
+Renamed : program162.cpp --> program162.c
+Renamed : program163.cpp --> program163.c
+Renamed : program164.cpp --> program164.c
+----------------------------------------------------------------------
+Time required to execute the script is : 0.00552821159362793
+
