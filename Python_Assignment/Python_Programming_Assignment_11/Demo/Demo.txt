@@ -1,0 +1,9 @@
+Welcome to Marvellous,
+
+	This is Text.txt
+	This is third line.
+	This file is used for many programs.
+	It is also used to find frequency of "Marvellous" string in given file.
+
+Thak you,
+Marvellous, Marvellous, Marvellous
