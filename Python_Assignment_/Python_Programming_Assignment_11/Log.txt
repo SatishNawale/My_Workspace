@@ -1,0 +1,20 @@
+Duplicates found
+The following files are identical
+	CloseFile.py
+	Copy.txt
+	Demo - Copy.txt
+	Demo.txt
+	CreateFile.py
+	CreateFileX.py
+	DeleteFile.py
+	Demo1.txt
+	duplicate.c
+	program164 - Copy.c
+	program164.c
+	program161.c
+	program162 - Copy.c
+	program162.c
+	program163 - Copy.c
+	program163.c
+	Text - Copy.txt
+	Text.txt
