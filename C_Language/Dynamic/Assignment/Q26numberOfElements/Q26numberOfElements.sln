@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q26numberOfElements", "Q26numberOfElements\Q26numberOfElements.vcxproj", "{DE8A774D-2151-45A9-8875-0FF3DAD35553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE8A774D-2151-45A9-8875-0FF3DAD35553}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DE8A774D-2151-45A9-8875-0FF3DAD35553}.Debug|Win32.Build.0 = Debug|Win32
+		{DE8A774D-2151-45A9-8875-0FF3DAD35553}.Release|Win32.ActiveCfg = Release|Win32
+		{DE8A774D-2151-45A9-8875-0FF3DAD35553}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+﻿Build started 24-09-2022 12:39:14.
+     1>Project "F:\VsC\DSA\DlinkedList\studentDlinkedList\Demo\Demo\Demo.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Source.c
+         Source.c
+     1>f:\vsc\dsa\dlinkedlist\studentdlinkedlist\demo\demo\source.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>f:\vsc\dsa\dlinkedlist\studentdlinkedlist\demo\demo\source.c(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>f:\vsc\dsa\dlinkedlist\studentdlinkedlist\demo\demo\source.c(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>f:\vsc\dsa\dlinkedlist\studentdlinkedlist\demo\demo\source.c(23): warning C4101: 'marks' : unreferenced local variable
+     1>f:\vsc\dsa\dlinkedlist\studentdlinkedlist\demo\demo\source.c(25): warning C4101: 'name' : unreferenced local variable
+     1>f:\vsc\dsa\dlinkedlist\studentdlinkedlist\demo\demo\source.c(24): warning C4101: 'number' : unreferenced local variable
+     1>f:\vsc\dsa\dlinkedlist\studentdlinkedlist\demo\demo\source.c(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>f:\vsc\dsa\dlinkedlist\studentdlinkedlist\demo\demo\source.c(109): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>f:\vsc\dsa\dlinkedlist\studentdlinkedlist\demo\demo\source.c(110): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>f:\vsc\dsa\dlinkedlist\studentdlinkedlist\demo\demo\source.c(132): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>f:\vsc\dsa\dlinkedlist\studentdlinkedlist\demo\demo\source.c(122): warning C4101: 'n' : unreferenced local variable
+     1>f:\vsc\dsa\dlinkedlist\studentdlinkedlist\demo\demo\source.c(122): warning C4101: 'pos' : unreferenced local variable
+     1>f:\vsc\dsa\dlinkedlist\studentdlinkedlist\demo\demo\source.c(49): warning C4716: 'createnode' : must return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\VsC\DSA\DlinkedList\studentDlinkedList\Demo\Debug\Demo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\VsC\DSA\DlinkedList\studentDlinkedList\Demo\Debug\Demo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\VsC\DSA\DlinkedList\studentDlinkedList\Demo\Debug\Demo.lib" /MACHINE:X86 Debug\Source.obj
+         Demo.vcxproj -> F:\VsC\DSA\DlinkedList\studentDlinkedList\Demo\Debug\Demo.exe
+     1>Done Building Project "F:\VsC\DSA\DlinkedList\studentDlinkedList\Demo\Demo\Demo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.22

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q21copyFirstNcharacters", "Q21copyFirstNcharacters\Q21copyFirstNcharacters.vcxproj", "{BCD1E0C1-8E88-40DE-BB7F-2313278F8462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD1E0C1-8E88-40DE-BB7F-2313278F8462}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BCD1E0C1-8E88-40DE-BB7F-2313278F8462}.Debug|Win32.Build.0 = Debug|Win32
+		{BCD1E0C1-8E88-40DE-BB7F-2313278F8462}.Release|Win32.ActiveCfg = Release|Win32
+		{BCD1E0C1-8E88-40DE-BB7F-2313278F8462}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿Build started 7/18/2022 3:58:37 PM.
+     1>Project "F:\VsC\Basic\pointer\pointer\pointer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt pointer.c pointerToConstant.c
+         pointerToConstant.c
+     1>f:\vsc\basic\pointer\pointer\pointertoconstant.c(14): error C2166: l-value specifies const object
+         pointer.c
+     1>f:\vsc\basic\pointer\pointer\pointer.c(12): warning C4090: 'initializing' : different 'const' qualifiers
+     1>f:\vsc\basic\pointer\pointer\pointer.c(27): error C2143: syntax error : missing ';' before 'type'
+     1>f:\vsc\basic\pointer\pointer\pointer.c(28): error C2065: 'q' : undeclared identifier
+         Generating Code...
+     1>Done Building Project "F:\VsC\Basic\pointer\pointer\pointer.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.24

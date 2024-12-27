@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Q16PrintWordAtGivenPosition", "Q16PrintWordAtGivenPosition\Q16PrintWordAtGivenPosition.vcxproj", "{1BD6D131-4820-448C-9125-D9BB345E985D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD6D131-4820-448C-9125-D9BB345E985D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1BD6D131-4820-448C-9125-D9BB345E985D}.Debug|Win32.Build.0 = Debug|Win32
+		{1BD6D131-4820-448C-9125-D9BB345E985D}.Release|Win32.ActiveCfg = Release|Win32
+		{1BD6D131-4820-448C-9125-D9BB345E985D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
